@@ -1,7 +1,7 @@
 #inlude<iostream>
 using namespace std;
 main(){
-	system("color 09")
+	system("color 09");
 
 	cout<<"     +--^----------,--------,-----,--------^-,            "<<endl;
 	cout<<"      | |||||||||   '--------'     |          o           "<<endl;
