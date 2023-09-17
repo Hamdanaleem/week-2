@@ -1,4 +1,4 @@
-#inlude<iostream>
+#include<iostream>
 using namespace std;
 main(){
 	system("color 09");
